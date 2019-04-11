@@ -1,6 +1,7 @@
 <template>
   <div class="home">
   <image-gallery :photos="photos" />
+  <a href="https://github.com/Travisgra13/Lab-5.git">Link</a>
 </div>
 </template>
 
